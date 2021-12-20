@@ -13,5 +13,4 @@
 ช่องที่ 5 จะเป็นค่าออกซิเจนในเลือด
 ช่องที่ 6 จะเป็นค่าอุณหภูมิร่างกาย
 ช่องที่ 6 จะเป็นค่าบอกว่าข้อมูลช่องที่3-6จะมีความผิดปกติหรือไม่
-![image](https://user-images.githubusercontent.com/96381276/146781952-48e29a6b-31ab-4953-9928-cf66b9fcf911.png)
-  
+![image](https://user-images.githubusercontent.com/96381276/146783418-66de5048-e7ad-45e5-a69c-b9ffa34f9b97.png)
