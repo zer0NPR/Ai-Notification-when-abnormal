@@ -26,7 +26,7 @@
 ช่องที่ 6 จะเป็นค่าอุณหภูมิร่างกาย
 
 ช่องที่ 7 จะเป็นค่าบอกว่าข้อมูลช่องที่3-6จะมีความผิดปกติหรือไม่
-![image](https://user-images.githubusercontent.com/96381276/146783418-66de5048-e7ad-45e5-a69c-b9ffa34f9b97.png)
+![image](https://user-images.githubusercontent.com/96381276/146791180-84eb2408-40d0-44b4-b3f1-9affe8bc90a8.png)
 
 # Train / Test
 Training data จะมีความแม่นยำของโมเดลอยู่ที่ :  0.8625954198473282 หรือประมาน 86 %
