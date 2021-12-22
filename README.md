@@ -38,7 +38,11 @@
    ![image](https://user-images.githubusercontent.com/96381276/147101671-564304c5-9d4e-48c6-a5f1-6d8e139f01bf.png)
 ![image](https://user-images.githubusercontent.com/96381276/147101815-2ddc4213-a025-4958-9744-4dc2aa0b5102.png)
 
-      
+   ขั้นที่ 3 อัพโหลดไฟล์เส็จ สามารถรันโปรแกรมได้ปกติ
+   
+   ![image](https://user-images.githubusercontent.com/96381276/147102437-8f3be3bc-2d11-4513-9e01-bd9d588a2b77.png)
+  
+  
 # Train / Test
 Training data จะมีความแม่นยำของโมเดลอยู่ที่ :  0.8625954198473282 หรือประมาน 86 %
 
