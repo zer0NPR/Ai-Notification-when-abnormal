@@ -29,8 +29,11 @@
 ![image](https://user-images.githubusercontent.com/96381276/146791180-84eb2408-40d0-44b4-b3f1-9affe8bc90a8.png)
 
 # การอัพโหลด Database 
-  ขั้นที่ 1 กดไปที่ลูกษรชี้ฃ
-  ![image](https://user-images.githubusercontent.com/96381276/147100431-efdadc6b-8477-487f-8f02-bdc6e43d0bdb.png)
+  ขั้นที่ 1 กดไปที่ลูกษรชี้
+  
+  ![image](https://user-images.githubusercontent.com/96381276/147100541-647b32cb-d490-456f-b494-05d9c4017c7a.png)
+
+  
 
     
 # Train / Test
