@@ -33,9 +33,12 @@
   
   ![image](https://user-images.githubusercontent.com/96381276/147100541-647b32cb-d490-456f-b494-05d9c4017c7a.png)
 
-  
+   ขั้นที่ 2 กดไปที่ลูกษรชี้ เพื่อเลือกไฟล์ database ที่เราโหลดไว้
+   
+   ![image](https://user-images.githubusercontent.com/96381276/147101671-564304c5-9d4e-48c6-a5f1-6d8e139f01bf.png)
+![image](https://user-images.githubusercontent.com/96381276/147101815-2ddc4213-a025-4958-9744-4dc2aa0b5102.png)
 
-    
+      
 # Train / Test
 Training data จะมีความแม่นยำของโมเดลอยู่ที่ :  0.8625954198473282 หรือประมาน 86 %
 
