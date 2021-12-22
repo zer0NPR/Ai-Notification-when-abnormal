@@ -28,6 +28,11 @@
 ช่องที่ 7 จะเป็นค่าบอกว่าข้อมูลช่องที่3-6จะมีความผิดปกติหรือไม่
 ![image](https://user-images.githubusercontent.com/96381276/146791180-84eb2408-40d0-44b4-b3f1-9affe8bc90a8.png)
 
+# การอัพโหลด Database 
+  ขั้นที่ 1 กดไปที่ลูกษรชี้ฃ
+  ![image](https://user-images.githubusercontent.com/96381276/147100431-efdadc6b-8477-487f-8f02-bdc6e43d0bdb.png)
+
+    
 # Train / Test
 Training data จะมีความแม่นยำของโมเดลอยู่ที่ :  0.8625954198473282 หรือประมาน 86 %
 
